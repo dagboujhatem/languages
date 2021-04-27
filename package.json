@@ -1,6 +1,6 @@
 {
   "name": "world-languages",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "this package contains all languages of the world",
   "main": "index.js",
   "scripts": {
