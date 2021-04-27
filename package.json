@@ -1,0 +1,23 @@
+{
+  "name": "languages",
+  "version": "1.0.0",
+  "description": "this package contains all languages of the world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dagboujhatem/languages.git"
+  },
+  "keywords": [
+    "languages",
+    "i18n"
+  ],
+  "author": "Dagbouj hatem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dagboujhatem/languages/issues"
+  },
+  "homepage": "https://github.com/dagboujhatem/languages#readme"
+}
